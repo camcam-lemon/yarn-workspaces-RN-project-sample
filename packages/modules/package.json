@@ -1,0 +1,10 @@
+{
+  "name": "@monorepo/modules",
+  "version": "0.0.1",
+  "license": "ISC",
+  "main": "src/index.ts",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
