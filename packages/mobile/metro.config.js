@@ -7,7 +7,10 @@
 
 const path = require('path');
 
-const watchFolders = [path.resolve(__dirname, '../../node_modules')];
+const watchFolders = [
+  path.resolve(__dirname, '../modules'),
+  path.resolve(__dirname, '../../node_modules'),
+];
 const blockList = [/web/];
 
 module.exports = {

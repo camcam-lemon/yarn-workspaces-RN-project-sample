@@ -8,6 +8,7 @@
     "build": "NODE_ENV=production webpack"
   },
   "dependencies": {
+    "@monorepo/modules": "*",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
