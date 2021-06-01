@@ -1,5 +1,4 @@
 const path = require("path");
-//  const blacklist = require('./blocklist');
 
 const watchFolders = [
   path.resolve(__dirname, "./packages/modules"),
